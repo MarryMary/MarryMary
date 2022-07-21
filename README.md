@@ -7,8 +7,4 @@
 # できる
 * Flutter
 * C#
-* Kotlin
-* Swift
-* Ruby
-* C/C++
 * Java
